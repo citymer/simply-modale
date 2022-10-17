@@ -15,5 +15,13 @@ Run the following command:`npm install simple-modal`
 
 Just import the Modal component in the file you want to use the modal with and set its children for the content of your modal
 
+`import { Modal } from simple-modal`
 
+### Exemple
+
+   ` <Modal
+        closeModal={closeModal}
+    >
+        <h1>Your modal's message!</h1>
+    </Modal>`
 

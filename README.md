@@ -33,18 +33,18 @@ Just import the Modal component in the file you want to use the modal with and s
 
 The modal functionality is handled by the local state of the modal's parent. Therefore, the parent component requires state. I have used `modaleIsOpen` and `setModaleIsOpen` as variable names, but you can call them whatever you like.
 
-`
+``
 const [modalIsOpen, setModalIsOpen] = useState(false)
 
-`
+``
 
 The initial state should be set to _false_.
 
 An action at the parent component's level allows to change the state to _true_.
 
-`
+```
 const  handleSubmit = ( => {
     setModalIsOpen(true)
 }
 
-`
+```

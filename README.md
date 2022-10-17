@@ -1,4 +1,4 @@
-![Cover](https://github.com/citymer/simple-modal/src/lib/assets/modal-image.PNG)
+![Cover](src/lib/assets/modal-image.PNG)
 
 # simple-modalA library of React components created using `create-react-app`.
 

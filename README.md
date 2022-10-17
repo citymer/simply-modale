@@ -53,7 +53,6 @@ The "closeModal" prop receives the "closeModal" function as its value. This allo
 
 ``
  const  closeModal = () => {
- 
     setModalIsOpen(false)
  }
 ``

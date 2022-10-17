@@ -43,8 +43,16 @@ The initial state should be set to __false__.
 An action at the parent component's level allows to change the state to __true__.
 
 ```
-const  handleSubmit = ( => {
+const  validation = () => {
     setModalIsOpen(true)
 }
 
 ```
+
+The "closeModal" prop receives the "closeModal" function as its value. This allows the modal to be closed on a button click.
+
+``
+ const  closeModal = () => {
+    setModalIsOpen(false)
+ }
+``

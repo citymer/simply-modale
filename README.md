@@ -19,7 +19,7 @@ Just import the Modal component in the file you want to use the modal with and s
 
 ### Model
 
-   `
+   ```
    {modalIsOpen && (
     <Modal
 	    closeModal={closeModal}
@@ -27,7 +27,7 @@ Just import the Modal component in the file you want to use the modal with and s
 	    <p>Your modal's message !</p>	      
     </Modal>
 )}
-`
+```
 
 ### State
 

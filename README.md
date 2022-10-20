@@ -7,7 +7,7 @@ it is a maximum width of 500px and it is responsive.
 
 ## Installation
 
-Run the following command:`npm install simple-modal`
+Run the following command:`npm install simple-modale`
 
 ## How to use
 

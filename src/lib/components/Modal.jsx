@@ -9,7 +9,7 @@ const Modal = (props) => {
   return (
     <div className='content'>
       <div className='modal'>
-     
+        <p>{props.title}</p>
         <img src={cancel} alt="cancel" className='close' onClick={props.closeModal}/>
       </div>
     </div>

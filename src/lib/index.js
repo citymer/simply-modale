@@ -1,3 +1,3 @@
-import Modal from "./dist/Modal";
+import Modal from './components/Modal'
 
-export { Modal }
+export { Modal } 

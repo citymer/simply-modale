@@ -1,4 +1,4 @@
-import '../css/index.css'
+import './index.css'
 import React from 'react';
 import cancel from '../assets/cancel.png'
 import useEscapeTouch from '../useEscapeTouch';

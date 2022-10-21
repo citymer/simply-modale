@@ -15,7 +15,7 @@ const Modal = props => {
     className: "content"
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "modal"
-  }, /*#__PURE__*/_react.default.createElement("img", {
+  }, /*#__PURE__*/_react.default.createElement("p", null, props.title), /*#__PURE__*/_react.default.createElement("img", {
     src: _cancel.default,
     alt: "cancel",
     className: "close",

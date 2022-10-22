@@ -47,7 +47,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/citymer/simple-modal.git"
+    "url": "https://github.com/citymer/simply-modale.git"
   },
   "peerDependencies": {
     "react": "^18.2.0",
